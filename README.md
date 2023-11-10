@@ -20,13 +20,13 @@ Make sure you have the following software installed on your machine:
 2. Navigate to the project directory:
     cd File-Manager-Application
   
-3. Install dependencies for the server:
-    cd server    -- which is the backend folder
-    npm install
+3. Install Dependencies for the Backend server:
+    - cd server 
+    - npm install
 
-4. Install dependencies for the client:
-    cd client   -- which is the frontend folder
-    npm install
+4. Install dependencies the client:
+    - cd client
+    - npm install
 
 ## Configuration
 
@@ -39,7 +39,7 @@ etc.
 ## Database Models
 The application uses MongoDB as its database. You can access and manage your data using a MongoDB compass.
 
-├── Structure for the Models
+    ├── Structure for the Models
     │
     ├── User Model
     │   ├── name
