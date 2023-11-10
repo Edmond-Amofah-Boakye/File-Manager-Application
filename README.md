@@ -50,6 +50,8 @@ The application uses MongoDB as its database. You can access and manage your dat
     │   ├── confirmed
     │   └── active
     │
+
+    
     ├── File Model
     │   ├── Title
     │   ├── Filename
@@ -60,6 +62,8 @@ The application uses MongoDB as its database. You can access and manage your dat
     │   ├── emails
     │   ├── createdBy
     │
+
+    
     ├── Token Model
     │   ├── id
     │   ├── confirmationToken
